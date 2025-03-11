@@ -1,0 +1,5 @@
+body{
+    color: yellow;
+    background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(255,0,240,1) 14%, rgba(255,255,255,1) 28%, rgba(255,255,255,1) 38%, rgba(26,255,0,1) 61%, rgba(255,0,22,1) 75%, rgba(0,0,0,1) 89%);
+}
